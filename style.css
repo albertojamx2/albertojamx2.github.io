@@ -1,0 +1,19 @@
+body {
+  background-color: brown;
+  color: #fff;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+}
+
+h3 {
+  color: yellow;
+}
+
+.otrapagina {
+  margin-top: 50px;
+  background-color: bisque;
+  margin: 30px;
+}
